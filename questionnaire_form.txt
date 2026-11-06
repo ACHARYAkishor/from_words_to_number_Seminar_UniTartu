@@ -1,0 +1,71 @@
+SEMINAR 2 CLASS QUESTIONNAIRE ============================================================================
+
+Form title:   Twelve quick questions (Social Science Simulations)
+Description:  Twelve quick questions, about two minutes, anonymous. There are no right answers;
+              some questions are deliberately odd. We will use the class's answers as data in the
+              next seminar. Every question is optional.
+
+
+------------------------------------------------------------------------------------------------
+Q1  [emp_exp]   Short answer, whole number 0–10
+    Think of 10 passengers on a Tartu bus. How many of them, do you think, are travelling
+    without a valid ticket?
+
+Q2  [norm_exp]  Short answer, whole number 0–10
+    Think of 10 Tartu residents. How many of them would disapprove if they saw someone
+    travelling without a ticket?
+
+Q3  [justif]    Linear scale 1–10. Label at 1: Never. Label at 10: Always.
+    Do you think travelling without a ticket can be justified?
+
+Q4  [thr_fare]  Short answer, whole number 0–10
+    Suppose you knew for certain that a given number out of 10 passengers travel without a
+    ticket. At what number would you consider doing it yourself?
+
+Q4b [thr_fare_never]  Checkbox (one box)
+    Tick if you would never do it, whatever the number.
+
+Q5  [thr_nbr]   Short answer, whole number 0–8
+    Imagine moving to a street of eight households. How many of the eight should be "like you",
+    in whatever sense matters to you, for you to feel comfortable there?
+
+Q6  [likert_nbr]  Linear scale 1–5. Label at 1: Strongly disagree. Label at 5: Strongly agree.
+    "I would feel uncomfortable if most of my neighbours were different from me."
+
+Q7  [coffee]    Short answer, number
+    How many cups of coffee (or tea) do you drink on a typical day?
+
+Q8  [thr_movie] Short answer, whole number 0–10
+    Your neighbour likes loud movie nights. How many such nights in one month before you would
+    say something?
+
+Q8b [thr_movie_never]  Checkbox (one box)
+    Tick if you would never say anything.
+
+Q9  [thr_app]   Short answer, whole number 0–10
+    You would start using a new messaging app once how many of your ten closest friends use it?
+
+Q10 [trust_tt]  Linear scale 1–5. Label at 1: Not at all. Label at 5: Completely.
+    How much do you trust the Tartu bus timetable?
+
+Q11 [trust_why] Paragraph (free text)
+    In one sentence: why?
+
+Q12 [bus_use]   Multiple choice (one answer)
+    How often do you use a Tartu bus or a Tartu Smart Bike?
+    Options: Never / A few times a year / Monthly / Weekly / Daily
+------------------------------------------------------------------------------------------------
+
+Why these twelve (for you, not the students)
+  Q4, Q5, Q8, Q9  the same object four times: a threshold, elicited directly, in four domains
+  Q3, Q6, Q10     attitudes on a scale: the number is not the input; a mapping must be chosen
+  Q1, Q2          beliefs about others (empirical and normative expectations): what makes a norm
+  Q7              a true number, needing no translation: the control
+  Q11             text, to be coded into categories (by hand, then with an LLM)
+  Q12             an ordered category, to split the class into users and non-users
+
+Q1, Q2 and Q4 are all "out of 10" so that a student's belief about others and their own
+threshold sit on the same scale and can be compared in class.
+
+Note: If fewer than ~15 responses arrive, the notebook falls back to
+synthetic respondents drawn from the WVS distributions and says so on screen.

@@ -1,0 +1,7 @@
+item,wave,year,variable,n_valid,n_missing,v1_never,v2,v3,v4,v5,v6,v7,v8,v9,v10_always,source_url
+avoiding_fare,WVS3,1996,V193,993,28,485,90,82,59,123,30,30,36,15,43,https://catalog.ihsn.org/catalog/9087/variable/F2/V551?name=V193
+cheating_taxes,WVS3,1996,V194,986,35,418,85,114,56,105,39,53,51,16,49,https://datacatalog.ihsn.org/catalog/9087/variable/F2/V552?name=V194
+accepting_bribe,WVS3,1996,V196,1004,17,819,78,35,10,33,7,7,6,1,8,https://catalog.ihsn.org/catalog/9087/variable/F2/V554?name=V196
+avoiding_fare,WVS6,2011,V199,1503,30,659,227,157,101,152,66,56,40,15,30,https://catalog.ihsn.org/catalog/9049/variable/F1/V231?name=V199
+cheating_taxes,WVS6,2011,V201,1500,33,857,201,157,85,78,38,26,20,19,19,https://catalog.ihsn.org/catalog/9049/variable/F1/V233?name=V201
+accepting_bribe,WVS6,2011,V202,1514,19,1149,182,88,27,36,16,7,7,0,2,https://catalog.ihsn.org/catalog/9049/variable/F1/V234?name=V202
