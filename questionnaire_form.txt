@@ -56,7 +56,7 @@ Q12 [bus_use]   Multiple choice (one answer)
     Options: Never / A few times a year / Monthly / Weekly / Daily
 ------------------------------------------------------------------------------------------------
 
-Why these twelve (for you, not the students)
+Why these twelve:
   Q4, Q5, Q8, Q9  the same object four times: a threshold, elicited directly, in four domains
   Q3, Q6, Q10     attitudes on a scale: the number is not the input; a mapping must be chosen
   Q1, Q2          beliefs about others (empirical and normative expectations): what makes a norm
